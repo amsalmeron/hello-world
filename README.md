@@ -1,6 +1,6 @@
 # hello-world
 First repository on github
 
-This is where I can make edits, then transfer to main chain.
+This is super cool. Great place to create and develop new projects.
 
-Congrats!
+Welcom!
